@@ -1,9 +1,9 @@
-const { adams } = require('../Ibrahim/adams');
+const { elias } = require('../kipkoech');
 const {ajouterUtilisateurAvecWarnCount , getWarnCountByJID , resetWarnCountByJID} = require('../lib/warn')
 const s = require("../config")
 
 
-adams(
+master(
     {
         nomCom : 'warn',
         categorie : 'Group'
