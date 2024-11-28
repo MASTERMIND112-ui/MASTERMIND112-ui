@@ -1,36 +1,289 @@
-# This is a basic workflow to help you get started with Actions
 
-name: CI
+╭──────────────────⚃
+┊🌏╭───*MASTERMIND*────⚃
+┊☯┊ *𝐔𝐬𝐞𝐫* : ELIAS
+┊☯┊ *𝐌𝐨𝐝𝐞* : public
+┊☯╰───────────────⚃
+┊☯┊ *𝐓𝐢𝐦𝐞* : 21:44:42  
+┊☯┊ *𝐑𝐀𝐌* : 32.51 GB/61.79 GB
+┊🌎╰───────────────⚃
+╰──────────────────⚃ 
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  
+  *MASTER MD COMMANDS*
+*╭────⚃* *IA* *⚃*  
+*┊👣* ian  
+*┊👣* dalle  
+*┊👣* ai  
+*┊👣* popkid  
+*┊👣* gpt
+*╰═════════════⚃* 
+*╭────⚃* *General* *⚃*  
+*┊👣* owner  
+*┊👣* dev  
+*┊👣* support  
+*┊👣* alive  
+*┊👣* bible  
+*┊👣* poll  
+*┊👣* deploy  
+*┊👣* sc  
+*┊👣* menu  
+*┊👣* test  
+*┊👣* repo  
+*┊👣* git  
+*┊👣* script  
+*┊👣* ping  
+*┊👣* uptime  
+*┊👣* ss  
+*┊👣* vv
+*╰═════════════⚃* 
+*╭────⚃* *Download* *⚃*  
+*┊👣* play  
+*┊👣* song  
+*┊👣* video  
+*┊👣* videodoc
+*╰═════════════⚃* 
+*╭────⚃* *Group* *⚃*  
+*┊👣* vcf  
+*┊👣* welcome  
+*┊👣* goodbye  
+*┊👣* antipromote  
+*┊👣* antidemote  
+*┊👣* tagall  
+*┊👣* link  
+*┊👣* promote  
+*┊👣* demote  
+*┊👣* remove  
+*┊👣* del  
+*┊👣* info  
+*┊👣* antilink  
+*┊👣* antibot  
+*┊👣* group  
+*┊👣* gname  
+*┊👣* gdesc  
+*┊👣* gpp  
+*┊👣* hidetag  
+*┊👣* automute  
+*┊👣* autounmute  
+*┊👣* fkick  
+*┊👣* nsfw  
+*┊👣* kickall  
+*┊👣* onlyadmin  
+*┊👣* kickall  
+*┊👣* onlyadmin
+*╰═════════════⚃* 
+*╭────⚃* *Mods* *⚃*  
+*┊👣* restart  
+*┊👣* left  
+*┊👣* telesticker  
+*┊👣* crew  
+*┊👣* left  
+*┊👣* join  
+*┊👣* jid  
+*┊👣* block  
+*┊👣* unblock  
+*┊👣* ban  
+*┊👣* bangroup  
+*┊👣* sudo  
+*┊👣* save  
+*┊👣* mention  
+*┊👣* tgs  
+*┊👣* crew  
+*┊👣* left  
+*┊👣* join  
+*┊👣* jid  
+*┊👣* block  
+*┊👣* unblock  
+*┊👣* ban  
+*┊👣* bangroup  
+*┊👣* sudo  
+*┊👣* save  
+*┊👣* mention  
+*┊👣* reboot
+*╰═════════════⚃* 
+*╭────⚃* *Fun* *⚃*  
+*┊👣* ranime  
+*┊👣* profile  
+*┊👣* rank  
+*┊👣* toprank
+*╰═════════════⚃* 
+*╭────⚃* *Search* *⚃*  
+*┊👣* google  
+*┊👣* imdb  
+*┊👣* movie  
+*┊👣* define  
+*┊👣* lyrics  
+*┊👣* github  
+*┊👣* lyrics  
+*┊👣* stickersearch  
+*┊👣* stickersearch  
+*┊👣* weather
+*╰═════════════⚃* 
+*╭────⚃* *Conversion* *⚃*  
+*┊👣* emomix  
+*┊👣* sticker  
+*┊👣* scrop  
+*┊👣* take  
+*┊👣* write  
+*┊👣* photo  
+*┊👣* trt  
+*┊👣* url
+*╰═════════════⚃* 
+*╭────⚃* *Audio-Edit* *⚃*  
+*┊👣* deep  
+*┊👣* bass  
+*┊👣* reverse  
+*┊👣* slow  
+*┊👣* smooth  
+*┊👣* tempo  
+*┊👣* nightcore
+*╰═════════════⚃* 
+*╭────⚃* *User* *⚃*  
+*┊👣* fact  
+*┊👣* quotes  
+*┊👣* mygroups
+*╰═════════════⚃* 
+*╭────⚃* *Image-Edit* *⚃*  
+*┊👣* shit  
+*┊👣* wasted  
+*┊👣* wanted  
+*┊👣* trigger  
+*┊👣* trash  
+*┊👣* rip  
+*┊👣* sepia  
+*┊👣* rainbow  
+*┊👣* hitler  
+*┊👣* invert  
+*┊👣* jail  
+*┊👣* affect  
+*┊👣* beautiful  
+*┊👣* blur  
+*┊👣* circle  
+*┊👣* facepalm  
+*┊👣* greyscale  
+*┊👣* joke
+*╰═════════════⚃* 
+*╭────⚃* *Games* *⚃*  
+*┊👣* riddle  
+*┊👣* chifumi  
+*┊👣* quizz
+*╰═════════════⚃* 
+*╭────⚃* *Recherche* *⚃*  
+*┊👣* apk
+*╰═════════════⚃* 
+*╭────⚃* *Hentai* *⚃*  
+*┊👣* hwaifu  
+*┊👣* trap  
+*┊👣* hneko  
+*┊👣* blowjob  
+*┊👣* hentaivid  
+*┊👣* hwaifu  
+*┊👣* trap  
+*┊👣* hneko  
+*┊👣* blowjob  
+*┊👣* hentaivid
+*╰═════════════⚃* 
+*╭────⚃* *heroku* *⚃*  
+*┊👣* setvar  
+*┊👣* allvar  
+*┊👣* getvar
+*╰═════════════⚃* 
+*╭────⚃* *Logo* *⚃*  
+*┊👣* hacker  
+*┊👣* dragonball  
+*┊👣* naruto  
+*┊👣* didong  
+*┊👣* wall  
+*┊👣* summer  
+*┊👣* neonlight  
+*┊👣* greenneon  
+*┊👣* glitch  
+*┊👣* devil  
+*┊👣* boom  
+*┊👣* water  
+*┊👣* snow  
+*┊👣* transformer  
+*┊👣* thunder  
+*┊👣* harrypotter  
+*┊👣* cat  
+*┊👣* whitegold  
+*┊👣* lightglow  
+*┊👣* thor  
+*┊👣* neon  
+*┊👣* purple  
+*┊👣* gold  
+*┊👣* arena  
+*┊👣* incandescent
+*╰═════════════⚃* 
+*╭────⚃* *tts* *⚃*  
+*┊👣* dit  
+*┊👣* itta  
+*┊👣* say  
+*┊👣* dit  
+*┊👣* itta  
+*┊👣* say
+*╰═════════════⚃* 
+*╭────⚃* *Reaction* *⚃*  
+*┊👣* bully  
+*┊👣* cuddle  
+*┊👣* cry  
+*┊👣* hug  
+*┊👣* awoo  
+*┊👣* kiss  
+*┊👣* lick  
+*┊👣* pat  
+*┊👣* smug  
+*┊👣* bonk  
+*┊👣* yeet  
+*┊👣* blush  
+*┊👣* smile  
+*┊👣* wave  
+*┊👣* highfive  
+*┊👣* handhold  
+*┊👣* nom  
+*┊👣* bite  
+*┊👣* glomp  
+*┊👣* slap  
+*┊👣* kill  
+*┊👣* kick  
+*┊👣* happy  
+*┊👣* wink  
+*┊👣* poke  
+*┊👣* dance  
+*┊👣* cringe
+*╰═════════════⚃* 
+*╭────⚃* *stickcmd* *⚃*  
+*┊👣* setcmd  
+*┊👣* delcmd  
+*┊👣* allcmd  
+*┊👣* setcmd  
+*┊👣* delcmd  
+*┊👣* allcmd
+*╰═════════════⚃* 
+*╭────⚃* *FUN* *⚃*  
+*┊👣* flirt  
+*┊👣* pickupline  
+*┊👣* yomama😂
+*╰═════════════⚃* 
+*╭────⚃* *META-AI* *⚃*  
+*┊👣* meta  
+*┊👣* genix  
+*┊👣* sdxl  
+*┊👣* monster  
+*┊👣* midjourney  
+*┊👣* pixart
+*╰═════════════⚃* 
+*╭────⚃* *Weeb* *⚃*  
+*┊👣* waifu  
+*┊👣* neko  
+*┊👣* shinobu  
+*┊👣* megumin  
+*┊👣* cosplay  
+*┊👣* couplepp
+*╰═════════════⚃* 
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+◇            ◇
+*—————♥️♥️♥️♥️—————*
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+  *💎 MASTERMIND TECHS𓅂*                                         
+*╰═════════════⚃*
